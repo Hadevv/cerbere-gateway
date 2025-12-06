@@ -1,5 +1,14 @@
 # deps
 node_modules/
+.claude
+.env
+.env.local
+
+
+
+
+
+
 PLAN_ARCHITECTURE.md
 PLAN_ARCHITECTURE_MINECRAFT.md
 
